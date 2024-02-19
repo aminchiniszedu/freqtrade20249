@@ -1,7 +1,7 @@
 import logging
 from typing import Any, Dict
 
-from freqtrade.enums import RunMode
+from freqtrade.state import RunMode
 
 from .config_validation import validate_config_consistency
 from .configuration import Configuration
