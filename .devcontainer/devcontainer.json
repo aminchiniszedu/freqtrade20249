@@ -1,5 +1,5 @@
 {
-    "name": "freqtrade Develop",
+    "name": "freqtradeDevelop",
     "build": {
         "dockerfile": "Dockerfile",
         "context": ".."
